@@ -37,8 +37,8 @@ This flow uses `crewai.flow.flow` to create an interactive experience where user
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/MuhammadRaffey/Router-Flow-CrewAI
+cd Router-Flow-CrewAI
 ```
 
 ### Step 2: Sync Dependencies with `uv`
